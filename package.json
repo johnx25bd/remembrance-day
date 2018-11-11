@@ -1,0 +1,22 @@
+{
+  "name": "newepoch",
+  "version": "1.0.0",
+  "description": "A solidity contract with epoch2() function, which returns the number of seconds since the 100 year anniversary of the end of the war to end all wars ....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robisoniv/remembrance-day.git"
+  },
+  "author": "IV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robisoniv/remembrance-day/issues"
+  },
+  "homepage": "https://github.com/robisoniv/remembrance-day#readme",
+  "dependencies": {
+    "solc": "^0.4.25"
+  }
+}
